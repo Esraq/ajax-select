@@ -1,0 +1,2 @@
+Route::get('test-result','Experiment2Controller@index');
+Route::Resource('experiment','ExperimentController');
